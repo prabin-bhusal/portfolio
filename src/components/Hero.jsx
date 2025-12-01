@@ -5,6 +5,7 @@ import { ComputersCanvas } from "./canvas";
 
 import React from "react";
 import { pm } from "../assets";
+import Tech from "./Tech";
 
 const Hero = () => {
   return (
