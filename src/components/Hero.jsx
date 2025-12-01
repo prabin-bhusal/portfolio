@@ -32,8 +32,8 @@ const Hero = () => {
             className=" h-60 rounded-full border-4 border-indigo-600"
           />
         </div>
+        <Tech />
       </div>
-      <Tech />
     </section>
   );
 };
