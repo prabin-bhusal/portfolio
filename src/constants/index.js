@@ -171,7 +171,7 @@ const projects = [
   {
     name: "Motor Mandu",
     description:
-      "Motor Mandu is an automotive news and review website built for the Nepali community. The site is developed using WordPress and Elementor, with proper SEO best practices implemented.",
+      "Motor Mandu is an automotive news and review website built for the Nepali community. The site is developed using Laravel and Blade, with proper SEO best practices implemented.",
     tags: [
       {
         name: "laravel",
