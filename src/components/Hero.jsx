@@ -32,6 +32,8 @@ const Hero = () => {
             className=" h-60 rounded-full border-4 border-indigo-600"
           />
         </div>
+      </div>
+      <div className="absolute xs:bottom-50 bottom-32 w-full flex justify-center items-center">
         <Tech />
       </div>
     </section>
