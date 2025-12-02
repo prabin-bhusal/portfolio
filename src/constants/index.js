@@ -27,6 +27,8 @@ import {
   gate,
   ag,
   rove,
+  tai,
+  motormandu
 } from "../assets";
 
 export const navLinks = [
@@ -109,19 +111,33 @@ const technologies = [
 
 const experiences = [
   {
-    title: "SEO Expertise",
-    company_name: "Rove The Trails | rovethetrails.com",
-    icon: rovethetrails,
+    title: "SEO Specialist",
+    company_name: "Motor Mandu | motormandu.com",
+    icon: motormandu,
     iconBg: "#E6DEDD",
-    date: "March 2023 - Present",
+    date: "Sept 2025 - Present",
     points: [
-      "Figure out the competitors in similar niche.",
-      "Personal blogging project. Ranked many keywords in first place of search engine even for competitive keywords such as 'cycle price in nepal'.",
-      "Implementing SEO audits in regular weeks and reporting it.",
-      "Writing SEO best practise content to make higher ranking in search engine.",
+      "Conducting competitor analysis to identify SEO opportunities and content gaps.",
+      "Managing a personal blogging project that ranks multiple competitive keywords, including 'cycle price in Nepal', in top search positions.",
+      "Performing regular SEO audits and preparing actionable reports for continuous improvement.",
+      "Creating SEO-optimized content following best practices to increase search visibility and organic traffic.",
+    ],
+  },
+  {
+    title: "Software Engineer",
+    company_name: "TAI Inc.",
+    icon: tai,
+    iconBg: "#E6DEDD",
+    date: "Jan 2023 - Present",
+    points: [
+      "Developing and maintaining scalable backend services with a focus on clean architecture and optimal performance.",
+      "Collaborating with cross-functional teams to design, implement, and improve application features.",
+      "Writing efficient, maintainable code and participating in code reviews to ensure product quality.",
+      "Integrating APIs, optimizing databases, and improving system reliability through continuous monitoring.",
     ],
   },
 ];
+
 
 const testimonials = [
   {

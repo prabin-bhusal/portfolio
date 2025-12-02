@@ -33,6 +33,8 @@ import tripguide from "./tripguide.png";
 import gate from "./gate.png";
 import ag from "./ag.jpeg";
 import rove from "./rove.jpeg";
+import tai from "./tai.svg"
+import motormandu from "./motormandu.png"
 
 export {
   rove,
@@ -68,4 +70,6 @@ export {
   jobit,
   tripguide,
   pm,
+  tai,
+  motormandu
 };
