@@ -35,6 +35,7 @@ import ag from "./ag.jpeg";
 import rove from "./rove.jpeg";
 import tai from "./tai.svg"
 import motormandu from "./motormandu.png"
+import image from "./image.png"
 
 export {
   rove,
@@ -71,5 +72,6 @@ export {
   tripguide,
   pm,
   tai,
-  motormandu
+  motormandu,
+  image
 };

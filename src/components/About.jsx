@@ -47,12 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I hold a Bachelor's in BEIT, specializing in web development with SEO
-        expertise. As a web developer, I thrive in high-pressure environments
-        and excel as a quick learner. My skills extend to crafting user-friendly
-        solutions. I'm adept at harnessing SEO strategies to enhance digital
-        landscapes. Eager to tackle challenges, I'm dedicated to continuous
-        growth and delivering top-notch results in dynamic settings.
+        I hold a Bachelor's degree in BEIT and specialize in web development with strong SEO expertise. With over 2 years of professional experience as a PHP/Laravel developer, I excel in building scalable, user-friendly applications and delivering clean, solution-focused code.
+        <br />
+        I thrive in dynamic, high-pressure environments and pick up new technologies quickly. Alongside my development work, I actively apply SEO strategies to improve digital visibility and performance.
+        <br />
+        I also run a side hustle at Motormandu, where I handle SEO and content optimization, successfully helping the platform grow through data-driven strategies.
+        <br />
+        Dedicated to continuous learning and improvement, I’m committed to delivering high-quality results across both development and SEO domains.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

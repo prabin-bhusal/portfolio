@@ -28,7 +28,8 @@ import {
   ag,
   rove,
   tai,
-  motormandu
+  motormandu,
+  image
 } from "../assets";
 
 export const navLinks = [
@@ -48,7 +49,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Software Engineer",
     icon: web,
   },
   {
@@ -56,7 +57,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "IT Support",
+    title: "Laravel Developer",
     icon: backend,
   },
   {
@@ -168,6 +169,31 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Motor Mandu",
+    description:
+      "Motor Mandu is an automotive news and review website built for the Nepali community. The site is developed using WordPress and Elementor, with proper SEO best practices implemented.",
+    tags: [
+      {
+        name: "laravel",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Blade",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Docker",
+        color: "sky-text-gradient",
+      },
+      {
+        name: "SEO",
+        color: "green-text-gradient",
+      },
+    ],
+    image: image,
+    source_code_link: "https://motormandu.com/",
+  },
+  {
     name: "GATE",
     description:
       "GATE, a tutor finding website, was my first full stack website build with MERN stack in my college time. Students can book a tutor and tutor also can register accordingly. Admin was powered to check qualification of tutor.",
@@ -204,23 +230,6 @@ const projects = [
     ],
     image: ag,
     source_code_link: "https://kisankosathi.netlify.app/",
-  },
-  {
-    name: "Rove The Trails",
-    description:
-      "This is cyclind and trekking blog website based for Nepali commuunities. This website is build with Wordpress and Elementor. All the best practises of SEO are implemented in this website.",
-    tags: [
-      {
-        name: "wordpress",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "SEO",
-        color: "green-text-gradient",
-      },
-    ],
-    image: rove,
-    source_code_link: "https://rovethetrails.com/",
   },
 ];
 

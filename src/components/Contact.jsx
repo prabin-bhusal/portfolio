@@ -58,7 +58,7 @@ const Contact = () => {
               <MdEmail className="mr-2 flex justify-center items-center" />
             </span>
             <span className="text-white font-medium mb-4">
-              bhusalprabin127@gmail.com
+              prabinbhusal.np@gmail.com
             </span>
           </label>
 
