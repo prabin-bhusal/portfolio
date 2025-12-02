@@ -21,6 +21,9 @@ function App() {
           <Hero />
         </div>
         <About />
+        <div className="block md:hidden">
+          <Tech />
+        </div>
         <Experience />
         <Works />
         {/* <Feedbacks /> */}
