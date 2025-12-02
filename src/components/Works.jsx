@@ -80,12 +80,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Demonstrating my expertise and experience, the presented projects
-          exhibit firsthand illustrations of my work. Each project is succinctly
-          outlined, accompanied by access to code repositories and live
-          demonstrations. They serve as tangible evidence of my proficiency in
-          tackling intricate challenges, navigating diverse technologies, and
-          adeptly handling project management.
+          Demonstrating my expertise and experience, the presented projects highlight my hands-on work as a Laravel developer. Each project is clearly outlined, supported with access to code repositories and live demos. They serve as solid proof of my ability to build robust systems, integrate diverse technologies, and effectively manage development tasks from start to finish.
         </motion.p>
       </div>
 

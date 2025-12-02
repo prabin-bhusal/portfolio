@@ -29,7 +29,12 @@ import {
   rove,
   tai,
   motormandu,
-  image
+  image,
+  php,
+  mysql,
+  postgres,
+  laravel,
+  livewire
 } from "../assets";
 
 export const navLinks = [
@@ -68,6 +73,10 @@ const services = [
 
 const technologies = [
   {
+    name: "Php",
+    icon: php,
+  },
+  {
     name: "HTML 5",
     icon: html,
   },
@@ -75,6 +84,23 @@ const technologies = [
     name: "CSS 3",
     icon: css,
   },
+  {
+    name: "Laravel",
+    icon: laravel,
+  },
+  {
+    name: "Livewire",
+    icon: livewire,
+  },
+  {
+    name: "MySQL",
+    icon: mysql,
+  },
+  {
+    name: "PostgresSQL",
+    icon: postgres,
+  },
+
   {
     name: "JavaScript",
     icon: javascript,
@@ -88,10 +114,6 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Node JS",
     icon: nodejs,
   },
@@ -99,7 +121,6 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
-
   {
     name: "git",
     icon: git,

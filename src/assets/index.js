@@ -36,6 +36,11 @@ import rove from "./rove.jpeg";
 import tai from "./tai.svg"
 import motormandu from "./motormandu.png"
 import image from "./image.png"
+import php from "./php.webp"
+import laravel from "./laravel.png"
+import livewire from "./Livewire.webp"
+import mysql from "./mysql.png"
+import postgres from "./postgres.png"
 
 export {
   rove,
@@ -73,5 +78,10 @@ export {
   pm,
   tai,
   motormandu,
-  image
+  image,
+  php,
+  laravel,
+  livewire,
+  mysql,
+  postgres
 };
