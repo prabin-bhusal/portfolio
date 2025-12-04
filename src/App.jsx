@@ -11,6 +11,7 @@ import {
   Works,
   StarsCanvas,
 } from "./components";
+import Game from "./components/Game";
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
           <Contact />
           <StarsCanvas />
         </div>
+        <Game />
       </div>
     </BrowserRouter>
   );
